@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T11:06:08.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NerkbAxOt6kMOyCJ8XfD" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T11:08:32.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="P6SUJgYWo1d1QmkO1I7K" version="17.1.2" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1298" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -9,12 +9,6 @@
         </mxCell>
         <mxCell id="5" value="乌尔苏拉(2)&#xa;1的妻子-表兄妹" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="542" y="455.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="Counsel Division" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="872" y="455.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="Cooperation" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1272" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Analysis &#xa;Division" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="282" y="625.5" width="200" height="60" as="geometry" />
