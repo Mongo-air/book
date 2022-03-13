@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T14:30:01.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ErEB3H4Io6HlMvyQVwAN" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T14:44:10.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xjPb7TBcXfvkgEkdoK1_" version="17.1.2" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2366" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -36,10 +36,10 @@
         <mxCell id="yg2kx18YFGhvjqjeRE_n-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="yg2kx18YFGhvjqjeRE_n-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="奥雷里亚诺 布恩迪(6)" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="18" value="奥雷里亚诺 布恩迪亚(6)&#xa;自由党" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="830" y="625.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="阿玛兰妲(7)" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="23" value="阿玛兰妲(7)&#xa;与5是情敌, 要毒死5,却毒死了11" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1092" y="625.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yg2kx18YFGhvjqjeRE_n-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="5" target="18">
@@ -100,8 +100,8 @@
         <mxCell id="yg2kx18YFGhvjqjeRE_n-77" value="奥雷里亚诺 何塞(9)&#xa;与7发生关系, 未结婚,无后" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="895" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yg2kx18YFGhvjqjeRE_n-81" value="奥雷里亚诺 母性(10)&#xa;在军中为改良血统" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="855" y="895" width="150" height="60" as="geometry" />
+        <mxCell id="yg2kx18YFGhvjqjeRE_n-81" value="17个奥雷里亚诺 母性(10)&#xa;在军中为改良血统" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="847.5" y="895" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yg2kx18YFGhvjqjeRE_n-83" value="蕾梅黛丝(11)&#xa;里正最小的女儿&#xa;没过青春期就嫁给6&#xa;被7意外毒死,无后" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="990" y="730" width="150" height="70" as="geometry" />
@@ -138,6 +138,12 @@
         </mxCell>
         <mxCell id="yg2kx18YFGhvjqjeRE_n-93" value="美人儿 蕾梅黛丝(17)" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="760" y="1171" width="172.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2kx18YFGhvjqjeRE_n-98" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="13" target="yg2kx18YFGhvjqjeRE_n-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="900" as="sourcePoint" />
+            <mxPoint x="1080" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
